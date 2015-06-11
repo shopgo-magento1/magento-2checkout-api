@@ -1,0 +1,15 @@
+{
+    "name": "craigchristenson/magento-2checkout-api",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "description": "Integrate Magento with 2Checkout Payment API (Supports PayPal Direct)",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors": [
+        {
+            "name": "Craig Christenson",
+            "email": "christensoncraig@gmail.com"
+        }
+    ]
+}
